@@ -1,3 +1,3 @@
 # FlustixRes
 
-An wip Vanilla Styled texturepack
+An wip Vanilla Styled Texturepack for Bedrock and Java Edition
